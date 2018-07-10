@@ -8,3 +8,5 @@ This is a python program. You can directly run the "echo.py", and you will see t
   (1) the simple string-specified structure 
   (2) reproduction limited by resource acquisition(implicit fitness)
   (3) interaction mediated by tags
+  
+From X-order team  
